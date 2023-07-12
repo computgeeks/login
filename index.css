@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+#container {
+    margin:0vh 40vw;
+    background-color: #084075;
+    height:70vh;
+
+}
+
+body {
+    overflow:hidden;
+}
